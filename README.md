@@ -1,2 +1,2 @@
 # tfcs-content
- Content for TFC:Source
+ (Now deprecated) Content repository for TFC:Source.
